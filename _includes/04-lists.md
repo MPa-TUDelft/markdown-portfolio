@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+#### A sandwich needs :sandwich:
+* ham
+* cheese
+* bread
+* tomatoe
+* letuce
+* butter
